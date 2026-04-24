@@ -33,7 +33,7 @@
 
 #### 對於一般使用者 (Windows)
 
-1.  前往本專案的 [Releases] 頁面下載最新版本的 `webp_converter.exe`。
+1.  前往本專案的 [Releases](https://github.com/153ys/webp_converter/releases/tag/v1.0.0) 頁面下載最新版本的 `webp_converter.exe`。
 2.  將檔案放置於桌面。
 3.  選取欲轉換的圖片，直接拖拽到 `webp_converter.exe` 圖示上。
 4.  桌面將自動彈出包含新 WebP 檔案的資料夾。
