@@ -1,0 +1,7 @@
+build/
+dist/
+*.spec
+
+# 忽略 Python 虛擬環境
+venv/
+__pycache__/
